@@ -13,7 +13,7 @@ syntax on
 " get time
 function GetTime()
         
-        let _ts=strftime("%Y-%b-%d %H:%M")
+        let _ts=strftime("%Y-%m-%d %H:%M")
         return _ts
 endfunction
 "---}}}
