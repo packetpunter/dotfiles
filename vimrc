@@ -57,6 +57,7 @@ set laststatus=2
 set nocompatible
 set number
 set cursorline
+set cursorcolumn
 set tabstop=4
 set expandtab
 set nobackup
