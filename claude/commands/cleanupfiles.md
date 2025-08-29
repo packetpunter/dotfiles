@@ -1,0 +1,1 @@
+Ensure all the files in this directory are in folders by file type or functionality, and ask for permission to do this change even if they have already granted it:
